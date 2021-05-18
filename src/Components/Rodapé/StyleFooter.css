@@ -1,0 +1,14 @@
+.Rodapé{
+    align-items: center;
+    margin-top: 230px;
+    background: #252323;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+}
+.Rodapé p{
+    text-decoration: underline;
+    padding: 10px;
+
+}

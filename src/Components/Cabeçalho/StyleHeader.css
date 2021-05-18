@@ -1,0 +1,25 @@
+body , ul , li , p {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 1.2rem;
+    font-family: arial;
+}
+.Header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background: rgb(0, 27, 53);
+    color: white;
+    align-items: center;
+    padding: 10px;
+}
+.menu{
+    display: flex;
+
+}
+.menu li{
+    margin-left: 10px;
+    padding: 10px;
+    
+}
