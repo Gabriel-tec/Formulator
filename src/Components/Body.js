@@ -1,16 +1,18 @@
-import React, { Component } from 'react'
-import MainHeader from './Cabeçalho/MainHeader'
-import Blocos from './Conteúdo/Blocos'
+import React from 'react'
+import Header from './Header/header'
+import Conteúdo from './Conteúdo/Conteúdo'
 import Footer from './Rodapé/Footer'
 
-export default class Body extends Component {
-    render() {
-        return (
+class Body extends React.Component{
+    render(){
+        return(
             <div>
-                <MainHeader/>
-                <Blocos/>
+                <Header/>
+                <Conteúdo/>
                 <Footer/>
             </div>
         )
     }
 }
+
+export default Body

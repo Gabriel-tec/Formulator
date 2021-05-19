@@ -1,0 +1,26 @@
+h2{
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.Blocos{
+    margin: 0 auto;
+    display: flex;
+    max-width: 800px;
+    flex-wrap: wrap;
+}
+.Blocos div{
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    border: 2px solid rgba(128, 128, 128, 0.466);
+    flex: 1 1 200px;
+}
+.Blocos div:hover{
+    margin: 10px;
+    padding: 20px;
+    background: rgba(0, 25, 31, 0.87);
+    color: white;
+    transition: 0.7s;
+}

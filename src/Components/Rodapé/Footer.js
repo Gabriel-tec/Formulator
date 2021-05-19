@@ -1,16 +1,16 @@
-import React, { Component } from 'react'
+import React from 'react'
 import './StyleFooter.css'
 
-export default class Footer extends Component {
-    render() {
-        return (
+class Footer extends React.Component{
+    render(){
+        return(
             <div>
-                <div className='Rodapé'>
-                    <p>Gratuito</p>
-                    <p>Ano de 2021</p>
-                    <p>Mande uma idéia</p>
-                </div>
+                <main className='footer'>
+                    <p>Ano de 2021</p>   
+                </main>
             </div>
         )
     }
 }
+
+export default Footer
