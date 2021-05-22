@@ -10,6 +10,13 @@ h2{
     max-width: 800px;
     flex-wrap: wrap;
 }
+.Blocos a{
+    max-width: 800px;
+    display: flex;
+    flex: 1 1 200px;
+    text-decoration: none;
+    color: black;
+}
 .Blocos div{
     text-align: center;
     padding: 5px;

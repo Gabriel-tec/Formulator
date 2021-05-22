@@ -1,0 +1,28 @@
+
+.Back{
+    margin: 10px;
+}
+.Back a{
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+}
+.Back a:hover{
+    background: black;
+    color: white;
+    transition: 0.5s;
+}
+.Cálculos{
+    width: 400px;
+    margin: 0 auto;
+    border: 2px solid rgba(0, 0, 0, 0.445);
+}
+.Cálculos div{
+    margin: 10px;
+}
+.Cálculos input{
+    margin: 5px;
+    padding: 5px;
+    width: 90%;
+}

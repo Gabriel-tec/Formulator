@@ -1,5 +1,6 @@
 .footer{
     display: flex;
+    justify-content: space-between;
     height: 70px;
     margin-top: 100px;
     background: #252323;
@@ -8,6 +9,6 @@
     width: 100%;
 }
 .footer p{
-    margin-left: 40%;
+
     text-decoration: underline;
 }
