@@ -26,3 +26,15 @@
     padding: 5px;
     width: 90%;
 }
+.Cálculos button{
+    border: 1px solid rgba(0, 0, 0, 0.445);
+    background: white;
+    width: 50%;
+    padding: 5px;
+    font-size: 20px;
+}
+.Cálculos button:hover{
+    transition: 0.3s;
+    color:rgba(0, 255, 255, 0.774);
+    background: #252323;
+}
