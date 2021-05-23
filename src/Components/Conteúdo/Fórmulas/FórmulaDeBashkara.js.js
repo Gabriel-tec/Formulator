@@ -76,10 +76,6 @@ class Fórmula01 extends React.Component{
                     </div>
                     <h3 id='Resultado'>Resultado: ({this.state.resultado})</h3>
                 </main>
-                <main className='tutorial'>
-                    <h2>Como fazer:</h2>
-            
-                </main>
             </div>
         )
     }

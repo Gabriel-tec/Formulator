@@ -14,7 +14,8 @@
     transition: 0.5s;
 }
 .Cálculos{
-    width: 400px;
+    max-width: 400px;
+    flex: 1 1 200px;
     margin: 0 auto;
     border: 2px solid rgba(0, 0, 0, 0.445);
 }

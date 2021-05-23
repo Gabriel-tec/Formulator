@@ -4,8 +4,8 @@ class Blocos02 extends React.Component{
     render(){
         return(
             <div>
-                <h3>Fórmula02 de...</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ad in sit ea, aspernatur tenetur nihil necessitatibus dolores fuga cumque assumenda vitae perferendis saepe cupiditate voluptatem deleniti aliquam autem! Natus.</p>
+                <h3>Descubra a área</h3>
+                <p>Calcule áreas de formas geométricas, insira o valor da base e altura</p>
             </div>
         )
     }
