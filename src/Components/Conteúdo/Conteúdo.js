@@ -26,10 +26,15 @@ class Conteúdo extends React.Component{
                     <Link to='/Formulário03'>
                         <Blocos03/>
                     </Link>
-
+                    <Link to=''>
                         <Blocos04/>
+                    </Link>
+                    <Link to=''>
                         <Blocos05/>
+                    </Link>
+                    <Link to=''>
                         <Blocos06/>
+                    </Link>  
                 </main>
             </div>
         )

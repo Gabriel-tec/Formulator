@@ -4,8 +4,8 @@ class Blocos03 extends React.Component{
     render(){
         return(
             <div>
-                <h3>Fórmula03 de...</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ad in sit ea, aspernatur tenetur nihil necessitatibus dolores fuga cumque assumenda vitae perferendis saepe cupiditate voluptatem deleniti aliquam autem! Natus.</p>
+                <h3>Equação de segundo grau</h3>
+                <p>Calcule as raizes de X e Y com a equação de segundo grau</p>
             </div>
         )
     }
